@@ -11,6 +11,6 @@ these can be found in
 2. matrix_multiply_recur.py
 3. strassen.py
 
-In matrix_comp there is a program that will evaluate all three methods on two identical 4 x 4 matrices and print the resulting matrix and the functions running time
+In matrix_comp.py there is a program that will evaluate all three methods on two identical 4 x 4 matrices and print the resulting matrix and the functions running time
 
 in matrix.py I have implemented the same functions in an object oriented fashion where you can create a matrix object and pass it another matrix for operations
